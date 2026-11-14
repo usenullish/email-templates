@@ -1,0 +1,46 @@
+{
+  "en": {
+    "subject": "You've been invited to join [[ nullish.organization.name ]] on nullish",
+    "preview": "Join {organization} on nullish.",
+    "title": "You've been invited",
+    "paragraphs": [
+      "{invitedBy} invited you to join {organization} on nullish.",
+      "To accept, sign in or create your account with this email address."
+    ],
+    "action": "View invitation",
+    "disclaimer": "This invitation expires on {expiresOn}. If you did not expect it, you can safely ignore this email."
+  },
+  "de": {
+    "subject": "Du wurdest eingeladen, [[ nullish.organization.name ]] auf nullish beizutreten",
+    "preview": "Tritt {organization} auf nullish bei.",
+    "title": "Du wurdest eingeladen",
+    "paragraphs": [
+      "{invitedBy} hat dich eingeladen, {organization} auf nullish beizutreten.",
+      "Um sie anzunehmen, melde dich mit dieser E-Mail-Adresse an oder erstelle dein Konto damit."
+    ],
+    "action": "Einladung ansehen",
+    "disclaimer": "Diese Einladung läuft am {expiresOn} ab. Falls du sie nicht erwartet hast, kannst du diese E-Mail einfach ignorieren."
+  },
+  "fr": {
+    "subject": "Tu es invité à rejoindre [[ nullish.organization.name ]] sur nullish",
+    "preview": "Rejoins {organization} sur nullish.",
+    "title": "Tu es invité",
+    "paragraphs": [
+      "{invitedBy} t'invite à rejoindre {organization} sur nullish.",
+      "Pour l'accepter, connecte-toi ou crée ton compte avec cette adresse e-mail."
+    ],
+    "action": "Voir l'invitation",
+    "disclaimer": "Cette invitation expire le {expiresOn}. Si tu ne t'y attendais pas, tu peux simplement ignorer cet e-mail."
+  },
+  "it": {
+    "subject": "Invito a unirti a [[ nullish.organization.name ]] su nullish",
+    "preview": "Unisciti a {organization} su nullish.",
+    "title": "Hai ricevuto un invito",
+    "paragraphs": [
+      "{invitedBy} ti invita a unirti a {organization} su nullish.",
+      "Per accettarlo, accedi o crea il tuo account con questo indirizzo e-mail."
+    ],
+    "action": "Vedi l'invito",
+    "disclaimer": "Questo invito scade il {expiresOn}. Se non te lo aspettavi, puoi semplicemente ignorare questa e-mail."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "en": {
+    "subject": "Verify your email address",
+    "preview": "Confirm your email address to start using nullish.",
+    "title": "Verify your email address",
+    "paragraphs": ["Confirm that this email address belongs to you to start using nullish."],
+    "action": "Verify email",
+    "disclaimer": "If you did not create an account on nullish, you can safely ignore this email."
+  },
+  "de": {
+    "subject": "Bestätige deine E-Mail-Adresse",
+    "preview": "Bestätige deine E-Mail-Adresse, um mit nullish loszulegen.",
+    "title": "Bestätige deine E-Mail-Adresse",
+    "paragraphs": ["Bestätige, dass diese E-Mail-Adresse dir gehört, um mit nullish loszulegen."],
+    "action": "E-Mail-Adresse bestätigen",
+    "disclaimer": "Falls du kein Konto bei nullish erstellt hast, kannst du diese E-Mail einfach ignorieren."
+  },
+  "fr": {
+    "subject": "Confirme ton adresse e-mail",
+    "preview": "Confirme ton adresse e-mail pour commencer avec nullish.",
+    "title": "Confirme ton adresse e-mail",
+    "paragraphs": ["Confirme que cette adresse e-mail t'appartient pour commencer avec nullish."],
+    "action": "Confirmer l'adresse e-mail",
+    "disclaimer": "Si tu n'as pas créé de compte sur nullish, tu peux simplement ignorer cet e-mail."
+  },
+  "it": {
+    "subject": "Conferma il tuo indirizzo e-mail",
+    "preview": "Conferma il tuo indirizzo e-mail per iniziare con nullish.",
+    "title": "Conferma il tuo indirizzo e-mail",
+    "paragraphs": ["Conferma che questo indirizzo e-mail è tuo per iniziare con nullish."],
+    "action": "Conferma l'indirizzo e-mail",
+    "disclaimer": "Se non hai creato un account su nullish, puoi semplicemente ignorare questa e-mail."
+  }
+}

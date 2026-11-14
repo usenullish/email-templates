@@ -1,0 +1,18 @@
+{
+  "en": {
+    "fallback": "If the button does not work, copy and paste this link into your browser:",
+    "tagline": "Swiss accounting, almost effortless"
+  },
+  "de": {
+    "fallback": "Falls der Button nicht funktioniert, kopiere diesen Link und füge ihn in deinen Browser ein:",
+    "tagline": "Schweizer Buchhaltung, fast ohne Aufwand"
+  },
+  "fr": {
+    "fallback": "Si le bouton ne fonctionne pas, copie et colle ce lien dans ton navigateur :",
+    "tagline": "Ta compta suisse, presque sans effort"
+  },
+  "it": {
+    "fallback": "Se il pulsante non funziona, copia e incolla questo link nel tuo browser:",
+    "tagline": "Contabilità svizzera, quasi senza fatica"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "en": {
+    "subject": "Reset your password",
+    "preview": "Choose a new password for your nullish account.",
+    "title": "Reset your password",
+    "paragraphs": [
+      "We received a request to reset the password of your nullish account. Use the button below to choose a new one."
+    ],
+    "action": "Reset password",
+    "disclaimer": "If you did not ask to reset your password, you can safely ignore this email. Your password stays unchanged."
+  },
+  "de": {
+    "subject": "Setze dein Passwort zurück",
+    "preview": "Wähle ein neues Passwort für dein nullish-Konto.",
+    "title": "Setze dein Passwort zurück",
+    "paragraphs": [
+      "Wir haben eine Anfrage erhalten, das Passwort deines nullish-Kontos zurückzusetzen. Mit dem Button unten wählst du ein neues."
+    ],
+    "action": "Passwort zurücksetzen",
+    "disclaimer": "Falls du das nicht angefordert hast, kannst du diese E-Mail einfach ignorieren. Dein Passwort bleibt unverändert."
+  },
+  "fr": {
+    "subject": "Réinitialise ton mot de passe",
+    "preview": "Choisis un nouveau mot de passe pour ton compte nullish.",
+    "title": "Réinitialise ton mot de passe",
+    "paragraphs": [
+      "On a reçu une demande de réinitialisation du mot de passe de ton compte nullish. Utilise le bouton ci-dessous pour en choisir un nouveau."
+    ],
+    "action": "Réinitialiser le mot de passe",
+    "disclaimer": "Si tu n'as pas fait cette demande, tu peux simplement ignorer cet e-mail. Ton mot de passe reste inchangé."
+  },
+  "it": {
+    "subject": "Reimposta la tua password",
+    "preview": "Scegli una nuova password per il tuo account nullish.",
+    "title": "Reimposta la tua password",
+    "paragraphs": [
+      "Abbiamo ricevuto una richiesta di reimpostare la password del tuo account nullish. Usa il pulsante qui sotto per sceglierne una nuova."
+    ],
+    "action": "Reimposta la password",
+    "disclaimer": "Se non hai fatto questa richiesta, puoi semplicemente ignorare questa e-mail. La tua password resta invariata."
+  }
+}
