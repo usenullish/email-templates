@@ -9,7 +9,7 @@ export default defineConfig({
     reuseExistingServer: !process.env.CI,
     port: PORT,
   },
-  testDir: "tests",
+  testDir: "e2e",
   testMatch: ["**/*.spec.ts"],
   fullyParallel: false,
   use: {
