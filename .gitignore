@@ -22,7 +22,7 @@ log.txt
 out/
 html/
 text/
-templates/
+/templates/
 # build output
 .react-email/
 
