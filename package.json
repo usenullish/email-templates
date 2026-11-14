@@ -14,7 +14,8 @@
     "test": "NODE_ENV=development playwright test",
     "test:snapshots": "NODE_ENV=development playwright test --update-snapshots --reporter=list",
     "test:ci": "playwright test --reporter=html",
-    "test:ci:snapshots": "playwright test --update-snapshots --reporter=html"
+    "test:ci:snapshots": "playwright test --update-snapshots --reporter=html",
+    "e2e:playwright:install": "playwright install chromium --with-deps"
   },
   "dependencies": {
     "oxfmt": "^0.78.0",
