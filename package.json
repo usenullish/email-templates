@@ -11,10 +11,10 @@
     "fmt": "oxfmt",
     "fmt:check": "oxfmt --check",
     "typecheck": "tsc --noEmit",
-    "test": "NODE_ENV=development playwright test",
-    "test:snapshots": "NODE_ENV=development playwright test --update-snapshots --reporter=list",
-    "test:ci": "playwright test --reporter=html",
-    "test:ci:snapshots": "playwright test --update-snapshots --reporter=html",
+    "e2e": "NODE_ENV=development playwright test",
+    "e2e:snapshots": "NODE_ENV=development playwright test --update-snapshots --reporter=list",
+    "e2e:ci": "playwright test --reporter=html",
+    "e2e:ci:snapshots": "playwright test --update-snapshots --reporter=html",
     "e2e:playwright:install": "playwright install chromium --with-deps"
   },
   "dependencies": {
