@@ -12,7 +12,7 @@ Templates are written with [React Email](https://react.email). Each email is exp
 1. Clone the repository and install the dependencies:
 
 ```sh
-npm install
+npm ci
 ```
 
 2. Start the preview:
