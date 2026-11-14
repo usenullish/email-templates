@@ -183,6 +183,7 @@ templates/invitation/subject.json
 }
 ```
 
+
 ## Using the templates in nullish
 
 The templates are released with this repository: each release attaches the exported files as `templates.tar.gz`. nullish ships them and uses them to send its emails.
