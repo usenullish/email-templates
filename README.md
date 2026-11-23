@@ -36,11 +36,12 @@ Open a file with the preview next to it, change something and save: the preview 
 
 ## Emails
 
-| Email          | Sent when                                                   | Folder                             |
-| -------------- | ----------------------------------------------------------- | ---------------------------------- |
-| Verify email   | A user signs up, or signs in before verifying their address | `emails/_templates/verify-email`   |
-| Reset password | A user asks to reset their password                         | `emails/_templates/reset-password` |
-| Invitation     | A member of an organization invites someone to join it      | `emails/_templates/invitation`     |
+| Email          | Sent when                                                   | Folder                                          |
+| -------------- | ----------------------------------------------------------- | ----------------------------------------------- |
+| Verify email   | A user signs up, or signs in before verifying their address | `emails/_templates/verify-email`                |
+| Reset password | A user asks to reset their password                         | `emails/_templates/reset-password`              |
+| Invitation     | A member of an organization invites someone to join it      | `emails/_templates/invitation`                  |
+| Trial reminder | An organization's trial ends in a few days                  | `emails/_templates/subscription-trial-reminder` |
 
 ## Writing a template
 
@@ -71,6 +72,14 @@ What `nullish` contains depends on the email.
 | `nullish.invitation.expiresOn`       | date | no           | Date the invitation expires                |
 | `nullish.invitation.invitedBy.name`  | text | no           | Name of the person who sent the invitation |
 | `nullish.invitation.invitedBy.email` | text | no           | Email address of the person who sent it    |
+
+#### Trial reminder
+
+| Field                       | Type | Can be empty | Description              |
+| --------------------------- | ---- | ------------ | ------------------------ |
+| `nullish.plans.url`         | URL  | no           | Link to choose a plan    |
+| `nullish.organization.name` | text | no           | Name of the organization |
+| `nullish.trial.endsOn`      | date | no           | Date the trial ends      |
 
 All values are already formatted, in the language of the email. Don't format them again.
 

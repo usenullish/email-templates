@@ -1,0 +1,46 @@
+{
+  "en": {
+    "subject": "Your trial of [[ nullish.organization.name ]] ends on [[ nullish.trial.endsOn ]]",
+    "preview": "Choose a plan to keep going with {organization}.",
+    "title": "Your trial ends soon",
+    "paragraphs": [
+      "The trial of {organization} on nullish ends on {endsOn}.",
+      "Choose a plan to keep going."
+    ],
+    "action": "Choose a plan",
+    "disclaimer": "You get this email because you created {organization} on nullish."
+  },
+  "de": {
+    "subject": "Deine Testphase von [[ nullish.organization.name ]] endet am [[ nullish.trial.endsOn ]]",
+    "preview": "Wähle einen Plan, um mit {organization} weiterzumachen.",
+    "title": "Deine Testphase endet bald",
+    "paragraphs": [
+      "Die Testphase von {organization} auf nullish endet am {endsOn}.",
+      "Wähle einen Plan, um weiterzumachen."
+    ],
+    "action": "Plan wählen",
+    "disclaimer": "Du erhältst diese E-Mail, weil du {organization} auf nullish erstellt hast."
+  },
+  "fr": {
+    "subject": "Ton essai de [[ nullish.organization.name ]] se termine le [[ nullish.trial.endsOn ]]",
+    "preview": "Choisis un forfait pour continuer avec {organization}.",
+    "title": "Ton essai se termine bientôt",
+    "paragraphs": [
+      "L'essai de {organization} sur nullish se termine le {endsOn}.",
+      "Choisis un forfait pour continuer."
+    ],
+    "action": "Choisir un forfait",
+    "disclaimer": "Tu reçois cet e-mail parce que tu as créé {organization} sur nullish."
+  },
+  "it": {
+    "subject": "La prova di [[ nullish.organization.name ]] termina il [[ nullish.trial.endsOn ]]",
+    "preview": "Scegli un piano per continuare con {organization}.",
+    "title": "La tua prova sta per finire",
+    "paragraphs": [
+      "La prova di {organization} su nullish termina il {endsOn}.",
+      "Scegli un piano per continuare."
+    ],
+    "action": "Scegli un piano",
+    "disclaimer": "Ricevi questa e-mail perché hai creato {organization} su nullish."
+  }
+}
